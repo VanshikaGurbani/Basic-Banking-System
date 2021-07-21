@@ -1,0 +1,48 @@
+body{
+    /* background-color: #4795fc; */
+    
+    /* background-color: #1679bb; */
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+
+.container{
+    width: 100%;
+    display: flex;
+    object-fit: fill;
+    height: 45rem;
+    /* background-color: #04009A; */
+    color: white;
+}
+
+.func_card{
+    width: 25%;
+    text-align: center;
+    display: flex;
+    margin: 5%;
+}
+
+.func_link{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 400%;
+    /* background-color: #3f3bbe; */
+    background-color: #E8F1F5;
+    color: #004A7C;
+    text-decoration: none;
+    font-size: 2rem;
+    border-radius: 10px;
+}
+
+.func_link:hover{
+    background-color: #E8F1F5;
+    color: #004A7C;
+}
+
+.card-container{
+    display: flex;
+}
+
+
